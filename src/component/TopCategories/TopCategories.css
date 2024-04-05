@@ -1,0 +1,21 @@
+.slider-categroies {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 229px;
+    height: 127px;
+}
+.slide-bg-1 {
+    background-image: url('../../../public/Workspace.png');
+}
+.slide-bg-2 {
+    background-image: url('../../../public/Summer.png');
+}
+.slide-bg-3 {
+    background-image: url('../../../public/City.png');
+}
+.slide-bg-4 {
+    background-image: url('../../../public/Food.png');
+}
+.slide-bg-5 {
+    background-image: url('../../../public/Gravity.png');
+}
