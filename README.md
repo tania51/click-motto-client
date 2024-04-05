@@ -1,8 +1,6 @@
-# React + Vite
+# CLick Motto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Home page has a navbar, banner, categories and gallery section
+* also there is a add image page where user can add images from there desktop and that will show in the gallery page, just click on the submit photos button on navbar and it will redirect to the user in add images page
+* There is also a server side where the images and all information send and get successfully.
+Server side link is: https://github.com/tania51/click-motto-server

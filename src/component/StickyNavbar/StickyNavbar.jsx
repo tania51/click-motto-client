@@ -136,7 +136,7 @@ function NavList() {
                 className="font-medium"
             >
                 <ListItem className="flex items-center gap-2 py-2 pr-4">
-                    <a href="#">
+                    <a href="/add-image">
                         <Button variant="outlined" className="text-[#707070] border border-[#707070] p-[7px]">Submit Photos</Button>
                     </a>
                 </ListItem>
